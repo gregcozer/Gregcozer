@@ -6,7 +6,7 @@
 -📚Buscando sempre aprender coisa novas
 
 
-<a href="https://www.linkedin.com/in/gregory-cozer-18bb381b8/">
+<a href="https://www.linkedin.com/in/gregory-cozer-11b270186/">
 
 <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
 
@@ -19,6 +19,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/cozergregory)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?pli=1#inbox)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregcozer&layout=compact&theme=tokyonight&count)
