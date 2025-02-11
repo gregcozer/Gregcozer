@@ -5,7 +5,7 @@
 
 -Análise e Desenvolvimento de Sistemas
 
--📚Buscando sempre aprende coisas novas
+-📚 Aprendendo coisas novas
 
 -✉ Contate-me pelo e-mail: cozergregory@gmail.com
 
