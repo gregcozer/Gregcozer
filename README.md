@@ -2,6 +2,7 @@
 -🚀 Carreira como desenvolvedor Back-end
 
 -📝Formado na linguagem C#
+- Cursando Linguagem Java
 
 -Análise e Desenvolvimento de Sistemas
 
